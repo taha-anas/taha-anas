@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Development+Enthusiast;Cloud+%26+Microservices+Architect;Spring+Boot+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Taha Anas;Software+Engineer;Backend+Development+Enthusiast;Cloud+%26+Microservices+Architect;Spring+Boot+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,22 +10,8 @@
 
 I'm a passionate **Software Engineer** currently in my final year at ENSIAS, specializing in **backend development** and **cloud technologies**. With a strong foundation in the Java ecosystem and Spring Boot, I focus on building scalable, maintainable applications that solve real-world problems.
 
-```yaml
-name: "Taha Anas"
-role: "Software Engineer"
-location: "Casablanca, Morocco 🇲🇦"
-focus: ["Backend Development", "Cloud Architecture", "Microservices"]
-currently_learning: ["Kubernetes", "AWS Solutions Architecture", "System Design"]
-fun_fact: "I believe clean code is not just about functionality, it's about craftsmanship"
-```
 
-## 🎯 What I'm Working On
 
-- 🔭 Building **microservices architectures** with Spring Boot and Docker
-- 🌱 Mastering **cloud-native development** on AWS and GCP
-- 👯 Contributing to **open-source projects** in the Java ecosystem
-- 📚 Exploring **DevOps practices** and CI/CD pipeline optimization
-- 💬 Sharing knowledge about **clean code** and **software architecture**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -69,43 +55,11 @@ fun_fact: "I believe clean code is not just about functionality, it's about craf
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taha-anas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-anas&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-anas&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taha-anas&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-</div>
 
-## 🌟 Featured Projects
 
-### 🎯 [Project Name](https://github.com/taha-anas/project-name)
-A brief description of your most impressive project showcasing microservices architecture with Spring Boot.
-- **Tech Stack:** Java, Spring Boot, Docker, PostgreSQL
-- **Key Features:** RESTful APIs, Database optimization, Containerized deployment
-
-### 🚀 [Another Project](https://github.com/taha-anas/another-project)
-Description of another significant project demonstrating your cloud and frontend skills.
-- **Tech Stack:** React, Node.js, AWS, MongoDB
-- **Key Features:** Real-time features, Cloud deployment, Responsive design
-
-## 📈 Current Learning Journey
-
-```mermaid
-graph LR
-    A[Spring Boot Mastery] --> B[Cloud Architecture]
-    B --> C[Microservices Design]
-    C --> D[DevOps Integration]
-    D --> E[System Design]
-    E --> F[Distributed Systems]
 ```
 
 ## 💡 Areas of Interest
