@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** currently in my final year at ENSIAS, specializing in **backend development** and **cloud technologies**. With a strong foundation in the Java ecosystem and Spring Boot, I focus on building scalable, maintainable applications that solve real-world problems.
+I'm a passionate **Software Engineer** fresh graduate from ENSIAS morocco, specializing in **backend development** and **cloud technologies**. With a strong foundation in the Java ecosystem and Spring Boot, I focus on building scalable, maintainable applications that solve real-world problems.
 
 
 
