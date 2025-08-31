@@ -58,10 +58,6 @@ I'm a passionate **Software Engineer** currently in my final year at ENSIAS, spe
 
 
 
-
-
-```
-
 ## 💡 Areas of Interest
 
 - **🏗️ Architecture:** Microservices, Event-driven architecture, Domain-driven design
